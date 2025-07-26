@@ -41,7 +41,7 @@ iot-simulator/
 
 1. **Clona este repositorio:**
    ```bash
-   git clone https://github.com/tuusuario/iot-simulator.git
+   git clone https://github.com/Bfarez21/iot-simulator.git
    cd iot-simulator
    ```
 
