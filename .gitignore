@@ -1,0 +1,39 @@
+# Archivos sensibles
+clave.json
+credentials.json
+*.key
+*.pem
+service-account.json
+
+# Variables de entorno
+.env
+.env.local
+.env.*.local
+
+# Binarios de Go
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+iot-simulator
+
+# Archivos de prueba
+*.test
+
+# Directorio de dependencias
+vendor/
+
+# Archivos del IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
